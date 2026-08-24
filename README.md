@@ -32,11 +32,6 @@ Es un cliente de [**JudoAdministración**](https://github.com/JuSaFe/JudoAdminis
 No tiene base de datos propia ni funciona sola: se conecta por HTTPS al mismo servidor que los
 puestos de administración, con las mismas credenciales y en la misma red local del pabellón.
 
-> **Estado actual.** Están hechos el inicio de sesión, la configuración del puesto y toda la
-> comunicación con el servidor. **La pantalla del crono en sí —el tiempo, el marcador, las
-> teclas— está por definir**; lo que hay tras el login es una pantalla provisional que demuestra
-> el camino completo funcionando.
-
 ## Instalación
 
 Descarga el instalador de tu sistema desde la [**última versión**](../../releases/latest):
